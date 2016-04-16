@@ -61,7 +61,9 @@ Deklaracja składa się właściwości po której następuje dwukropek oraz wart
 
 właściwość :  wartość ;
 Przykład reguły:
-'''
+
+
+'''c
 body {  
   margin: 28px;  
   background-color: yellow;  
