@@ -40,5 +40,25 @@ GitLab to kolejna stronka podobna do github ale jest większa prywatność bo mo
         http://tao.inf.ug.edu.pl/ informacje wykładowcy wbzyl 
         
        http://wbzyl.inf.ug.edu.pl/sp/unix-commands
+       
+       
+ informacje dotyczące **CSS** znajdziemy  <http://wbzyl.inf.ug.edu.pl/rails2/ti>
+ 
+<http://wbzyl.inf.ug.edu.pl/rails2/ti/css-basics>
+
+
+Jeśli chodzi o Kaskadowe arkusze stylów
+Reguła składa się z selektora i deklaracji.
+
+selektor { deklaracje }
+Deklaracja składa się właściwości po której następuje dwukropek oraz wartości po której następuje średnik.
+
+właściwość :  wartość ;
+Przykład reguły:
+
+body {  
+  margin: 28px;  
+  background-color: yellow;  
+}  
  
 
