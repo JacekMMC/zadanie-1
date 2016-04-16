@@ -21,6 +21,8 @@ ga do markdown   http://www.asp.katowice.pl/zobacz/markdown
 
 Przydatne informacje do html ( Thinkful HTML – wprowadzenie do HTML i CSS) zjajdziemy do w alapicie linki w repozytorium PSPI 
  ## Zjazd 16.04.2016
+ ![data](https://drive.google.com/open?id=0B20y7e4nIP-8aElWRWpTWXN6Z0U)
+ 
   www.polskiklubblendera.pl - to przykładowa strona zrobiona w wordpresie
   żeby zobaczeć zawartość strony to klkammy prawym i wyświetl źródło strony 
   
@@ -36,7 +38,7 @@ zainstaluj githubdesktop
 GitLab to kolejna stronka podobna do github ale jest większa prywatność bo można zablokować kopiowanie - klonowanie . 
 
 
-ściąga
+<font color="">ściąga</font>
         http://tao.inf.ug.edu.pl/ informacje wykładowcy wbzyl 
         
        http://wbzyl.inf.ug.edu.pl/sp/unix-commands
