@@ -24,7 +24,7 @@ Przydatne informacje do html ( Thinkful HTML – wprowadzenie do HTML i CSS) zja
 
  ## Zjazd 16.04.2016
  
- ![data](https://drive.google.com/open?id=0B20y7e4nIP-8aElWRWpTWXN6Z0U)
+ ![data](images.jpg)
  
   www.polskiklubblendera.pl - to przykładowa strona zrobiona w wordpresie
   żeby zobaczeć zawartość strony to klkammy prawym i wyświetl źródło strony 
@@ -71,7 +71,7 @@ body {
  # do pracy na zaliczenie dołóżyć ramki 
  https://www.w3.org/TR/css3-border/
  
- ![zdjęcie](https://drive.google.com/open?id=0B20y7e4nIP-8N25uZ2pTTGkwMTg)
+ ![zdjęcie](zd1.png)
  
  Propozycja strony do tworzenia ramek
  
