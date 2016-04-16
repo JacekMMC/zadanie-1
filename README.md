@@ -3,7 +3,7 @@
 Witam serdecznie. Jest 5.03.2016 rok, godzina 12:49. :+1: 
 Proces to środowisko, w którym działa program. 
 
-# Wyklad
+# Wyklad :imp:
 Wykłady
 
 notatki z wykładu
