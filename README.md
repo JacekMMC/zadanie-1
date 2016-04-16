@@ -62,17 +62,15 @@ Deklaracja składa się właściwości po której następuje dwukropek oraz wart
 właściwość :  wartość ;
 Przykład reguły:
 
-
-'''c
-
+```
 body {  
   margin: 28px;  
   background-color: yellow;  
-}  
- '''
+}
+``` 
  
- # do pracy na zaliczenie dołóżyć ramki 
- https://www.w3.org/TR/css3-border/
+## do pracy na zaliczenie dołóżyć ramki 
+https://www.w3.org/TR/css3-border/
  
  ![zdjęcie](zd1.png)
  
