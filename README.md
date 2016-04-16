@@ -20,6 +20,8 @@ ci
 ga do markdown   http://www.asp.katowice.pl/zobacz/markdown
 
 Przydatne informacje do html ( Thinkful HTML – wprowadzenie do HTML i CSS) zjajdziemy do w alapicie linki w repozytorium PSPI 
+
+
  ## Zjazd 16.04.2016
  
  ![data](https://drive.google.com/open?id=0B20y7e4nIP-8aElWRWpTWXN6Z0U)
@@ -65,4 +67,14 @@ body {
   background-color: yellow;  
 }  
  
+ 
+ # do pracy na zaliczenie dołóżyć ramki 
+ https://www.w3.org/TR/css3-border/
+ 
+ ![zdjęcie](https://drive.google.com/open?id=0B20y7e4nIP-8N25uZ2pTTGkwMTg)
+ 
+ Propozycja strony do tworzenia ramek
+ 
+https://css-tricks.com/
+
 
