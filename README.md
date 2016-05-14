@@ -79,3 +79,6 @@ https://www.w3.org/TR/css3-border/
 https://css-tricks.com/
 
 http://codepen.io/pen/
+
+
+## zjazd 14.05.2016
