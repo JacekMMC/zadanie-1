@@ -91,3 +91,11 @@ Warto poszukać książkę UP&Going podstawa do JavaScript wersja angielska jest
 
 Wpisać w przrglądarkę about:blank
  warto również przeczytać https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
+
+
+Cekawa strona do pisania dobrego CV  https://textio.com/
+
+
+
+
+
