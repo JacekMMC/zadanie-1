@@ -82,5 +82,12 @@ http://codepen.io/pen/
 
 
 ## zjazd 14.05.2016
+
+
 JavaScript to język rogramowania. 
 Głownie skupiano się na stworzeniu języku obiektowego. 
+Warto poszukać książkę UP&Going podstawa do JavaScript wersja angielska jest darmowa ale polską też można kupić. 
+
+
+Wpisać w przrglądarkę about:blank
+ warto również przeczytać https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md
