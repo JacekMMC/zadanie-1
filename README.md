@@ -82,3 +82,5 @@ http://codepen.io/pen/
 
 
 ## zjazd 14.05.2016
+JavaScript to język rogramowania. 
+Głownie skupiano się na stworzeniu języku obiektowego. 
